@@ -1,1 +1,38 @@
-{\n    "app_name": "GoalWave Savings Tracker",\n    "welcome_message": "Welcome to GoalWave! Track your savings with ease.",\n    "goal_setting": "Set your savings goals and achieve them step by step.",\n    "savings_summary": "Your current savings summary:",\n    "add_goal": "Add a new savings goal.",\n    "progress": "Track your progress towards your goals.",\n    "tips": "Useful tips to maximize your savings:",\n    "notifications": "Stay updated with notifications regarding your goals.",\n    "feedback": "We value your feedback!",\n    "logout": "Logout"\n}
+{
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register",
+    "forgotPassword": "Forgot Password?",
+    "resetPassword": "Reset Password"
+  },
+  "dashboard": {
+    "welcome": "Welcome to your Dashboard",
+    "overview": "Overview",
+    "stats": "Statistics",
+    "recentActivities": "Recent Activities"
+  },
+  "goals": {
+    "setGoal": "Set a Goal",
+    "myGoals": "My Goals",
+    "goalProgress": "Goal Progress",
+    "complete": "Complete"
+  },
+  "transactions": {
+    "transactionHistory": "Transaction History",
+    "newTransaction": "New Transaction",
+    "amount": "Amount",
+    "date": "Date"
+  },
+  "navigation": {
+    "home": "Home",
+    "profile": "Profile",
+    "settings": "Settings",
+    "help": "Help"
+  },
+  "notifications": {
+    "newMessage": "You have a new message",
+    "alert": "Alert",
+    "reminder": "Reminder"
+  }
+}
