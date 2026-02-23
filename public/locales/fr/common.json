@@ -1,0 +1,11 @@
+{
+    "welcome": "Bienvenue",
+    "savingsGoal": "Objectif d'épargne",
+    "currentSavings": "Économies actuelles",
+    "addSavings": "Ajouter des économies",
+    "removeSavings": "Retirer des économies",
+    "saveChanges": "Enregistrer les changements",
+    "cancel": "Annuler",
+    "error": "Une erreur s'est produite",
+    "success": "Opération réussie"
+}
