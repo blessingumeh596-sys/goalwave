@@ -1,11 +1,1 @@
-{
-    "welcome": "Bienvenue",
-    "savingsGoal": "Objectif d'épargne",
-    "currentSavings": "Économies actuelles",
-    "addSavings": "Ajouter des économies",
-    "removeSavings": "Retirer des économies",
-    "saveChanges": "Enregistrer les changements",
-    "cancel": "Annuler",
-    "error": "Une erreur s'est produite",
-    "success": "Opération réussie"
-}
+{\n  \\"auth\\": {\n    \\"login\\": \\\"Connexion\\\",\n    \\"logout\\": \\\"Déconnexion\\\",\n    \\"register\\": \\\"S'inscrire\\\",\n    \\"forgotPassword\\": \\\"Mot de passe oublié?\\\",\n    \\"resetPassword\\": \\\"Réinitialiser le mot de passe\\\"\n  },\n  \\"dashboard\\": {\n    \\"welcome\\": \\\"Bienvenue dans votre tableau de bord\\\",\n    \\"overview\\": \\\"Aperçu\\\",\n    \\"stats\\": \\\"Statistiques\\\",\n    \\"recentActivities\\": \\\"Activit��s récentes\\\"\n  },\n  \\"goals\\": {\n    \\"setGoal\\": \\\"Définir un objectif\\\",\n    \\"myGoals\\": \\\"Mes objectifs\\\",\n    \\"goalProgress\\": \\\"Progrès de l'objectif\\\",\n    \\"complete\\": \\\"Compléter\\\"\n  },\n  \\"transactions\\": {\n    \\"transactionHistory\\": \\\"Historique des transactions\\\",\n    \\"newTransaction\\": \\\"Nouvelle transaction\\\",\n    \\"amount\\": \\\"Montant\\\",\n    \\"date\\": \\\"Date\\\"\n  },\n  \\"navigation\\": {\n    \\"home\\": \\\"Accueil\\\",\n    \\"profile\\": \\\"Profil\\\",\n    \\"settings\\": \\\"Paramètres\\\",\n    \\"help\\": \\\"Aide\\\"\n  },\n  \\"notifications\\": {\n    \\"newMessage\\": \\\"Vous avez un nouveau message\\\",\n    \\"alert\\": \\\"Alerte\\\",\n    \\"reminder\\": \\\"Rappel\\\"\n  }\n}
